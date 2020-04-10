@@ -5,7 +5,9 @@ theme coder:mohamed shalaby
 
 theme desinger:route accadmey */
  
-
+.btnhere:hover{
+    background-color: #00c3da;
+}
 
 
 html{
@@ -445,3 +447,73 @@ clear: both;
     background-color: black;
     visibility: visible;
 }
+
+
+/*    section on get  in touch*/
+
+#contact  {
+    margin-top:100px
+}
+
+#contact  .contact-info h2 {
+    font-size:38px;
+    font-weight: 700;
+    color:#282828;
+    text-transform: uppercase;
+}
+
+
+#contact  .contact-info p {
+    font-size: 18px;
+    color: #999;
+}
+
+
+#contact .address .icon i {
+    margin-top:9px;
+    font-size:35px;
+    color:#f25454;
+    
+    
+}
+
+#contact .address .content {
+    padding-left:10px
+}
+
+#contact .address .content h4 {
+    font-size:18px;
+    color:#282828
+}
+
+
+
+#contact .address .content p {
+    color:#666;
+    font-size:14px
+}
+
+#contact .address  form input {
+    height:50px;
+    margin-bottom:20px
+}
+
+
+#contact .address  form textarea {
+    height:100px;
+    margin-bottom:20px
+
+}
+
+#contact .address  form button {
+    color:#fff;
+    background-color:#f25454 ;
+    padding:12px 39px;
+    font-size:14px;
+    font-weight: 700;
+}
+
+
+
+
+
