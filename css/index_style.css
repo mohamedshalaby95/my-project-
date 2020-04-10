@@ -343,7 +343,8 @@ clear: both;
 }
 /* end the team inf */
 
-/* start our work */
+
+/* start our work hs-yazal part */
 .nav-tabs{
     border-bottom: none;
     
@@ -369,7 +370,7 @@ clear: both;
     border-radius: 40px;
 }
 
-.project .pro{
+.project .sub-project{
     border-radius: 7px;
     position: relative;
     overflow: hidden;
